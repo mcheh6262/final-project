@@ -1,0 +1,32 @@
+.items-available {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+  }
+
+  .items-available-ul-li {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+  }
+  
+  .items-available-ul-li li {
+    background-color: #9b1a1a;
+    border: 3px solid #090909;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    width: 300px;
+    text-align: center;
+  }
+
+  .item-image {
+    width: 60px; 
+    height: 100px; 
+    object-fit: cover; 
+  }
+
+  
+  
+
+  

@@ -1,0 +1,22 @@
+.course-selection {
+    font: inherit;
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+  }
+  .new-watch {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #b0c4de;
+    background-color: #b0c4de;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+  }
+  .new-registration__actions {
+    text-align: center;
+  }
